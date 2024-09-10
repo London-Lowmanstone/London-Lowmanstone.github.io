@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[My Resume](http://london-lowmanstone.github.io/files/fall-2024-resume.pdf)
+[My Resume](http://london-lowmanstone.github.io/files/resume.pdf)
 
 *B.A. w/ Honors in Computer Science and Philosophy from Harvard University*
 *M.S. in Computer Science from the University of Minnesota*
