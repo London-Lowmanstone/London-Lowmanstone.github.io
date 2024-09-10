@@ -9,10 +9,10 @@ redirect_from:
 
 [My Resume](http://london-lowmanstone.github.io/files/resume.pdf)
 
-*B.A. w/ Honors in Computer Science and Philosophy from Harvard University*
-*M.S. in Computer Science from the University of Minnesota*
-*PhD Candidate in Computer Science at the University of Minnesota*
-*Advised by Maria Gini and Serguei Pakhomov*
+* *B.A. w/ Honors in Computer Science and Philosophy from Harvard University*
+* *M.S. in Computer Science from the University of Minnesota*
+* *PhD Candidate in Computer Science at the University of Minnesota*
+* *Advised by Maria Gini and Serguei Pakhomov*
 
 Hi! I'm a 4th year PhD student at the University of Minnesota focused on building safe artificial intelligence (AI) by building agents that can reason and explain their reasoning about how their actions may be harmful or helpful.
 

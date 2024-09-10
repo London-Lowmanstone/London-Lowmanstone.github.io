@@ -21,7 +21,7 @@ repository               : "London-Lowmanstone/London-Lowmanstone.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "main-bio-photo.png"
+  avatar           : "main-bio-photo.jpg"
   name             : "London Lowmanstone IV"
   pronouns         : # example: "she/her"  
   bio              : "Artificial Intelligence Researcher working to improve AI's adaptability to local communities."
