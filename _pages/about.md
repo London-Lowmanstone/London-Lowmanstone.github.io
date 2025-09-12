@@ -14,7 +14,7 @@ redirect_from:
 * *PhD Candidate in Computer Science at the University of Minnesota*
 * *Advised by Maria Gini and Serguei Pakhomov*
 
-Hi! I'm a 4th year PhD student at the University of Minnesota focused on building safe artificial intelligence (AI) by building agents that can reason and explain their reasoning about how their actions may be harmful or helpful.
+Hi! I'm a 5th year PhD student at the University of Minnesota focused on building safe artificial intelligence (AI) by building agents that can reason and explain their reasoning about how their actions may be harmful or helpful.
 
 **I focus especially on AI systems that need to work in environments where not everyone agrees on what it means to be helpful or hurtful**, and the AI needs to be able to reason about multiple different approaches at the same time. This paradigm is what I call *pluralistic-values reasoning*, which is my primary research focus.
 
